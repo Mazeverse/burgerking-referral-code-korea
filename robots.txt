@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://burgerking-referral-code-korea.vercel.app/sitemap.xml
